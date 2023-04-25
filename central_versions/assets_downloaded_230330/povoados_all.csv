@@ -1,0 +1,405 @@
+id_village,village_name,id_post
+uuid:131b1354-9c7f-44ed-8877-297efdecf41b,Mitchine,PA032101
+uuid:1578cd6e-d4de-4fe9-aa44-2ead4574578c,Mutanapo,PA030801
+uuid:1ef70a2d-0dca-4e1c-bedf-5d7c1db6afc4,Muhala,PA032103
+uuid:24196795-b99a-4b3c-a509-e04bb50ae2ea,Cuirini,PA032103
+uuid:28e6c2b5-4656-4764-acff-5b71865179a8,Lancheque,PA032101
+uuid:31d8c3be-9953-44e1-a867-e6de3c4ce4e1,Napipine,PA030804
+uuid:322e4a03-c011-428e-97dd-9b7c5de87d5f,Nanrele,PA030804
+uuid:3ae3ca1c-a047-4dbe-8224-5ac40d0956f0,Namihasse,PA032103
+uuid:40da1144-71b9-4775-8036-e556950b45b3,Mutepa,PA030804
+uuid:470edeaa-89c9-49f6-ac53-ffd6335dd16f,Unidade Moçambique,PA030804
+uuid:52e8814d-1b9a-42d9-a4c7-5b162c42ddf0,Naihava,PA032103
+uuid:576fe463-72da-4df8-84c6-54637fb91180,Namalili,PA030804
+uuid:57bf020e-99a2-443c-b955-b407eefb690a,Mesa,PA032101
+uuid:61d77b5d-5f0b-4289-a2ff-906051981a93,25 de junho,PA032103
+uuid:6f603c52-d7bc-409d-84fc-8753a1109804,Namicopo,PA032103
+uuid:796df55f-f954-41e0-93a9-45337b4edf50,Namacula,PA030804
+uuid:7ff9ae11-6609-4143-89d3-3ac8ee5b7eb0,Namacucu1. Lancheque,PA032301
+uuid:968dca35-75f8-4a2f-89cf-f28dbf745eca,Pajara,PA030804
+uuid:975377b6-90be-40dd-826a-3afb0dd351f6,Marrocane,PA030804
+uuid:9e55aa3d-d8a4-495b-8610-3c5741c9ee0d,Meparara,PA032101
+uuid:ae79c4a8-e06a-43d9-ab11-54f4e001d4c0,Namuali,PA032103
+uuid:c3f51ff6-a00c-4f82-aff2-f3e9349312a4,Napai 2,PA030801
+uuid:d651fd3f-061d-478a-8218-082dba8c55df,Naculue,PA030804
+uuid:ee189b38-130e-457e-8a8d-e3668967b7b3,Intatapila Sede,PA030801
+uuid:f6ba3a15-2db7-49ca-ab32-94b5de3c1563,Carrupeia,PA030804
+uuid:f7cffe47-59c1-41e9-a142-d8344cd18cdf,Muthekereque,PA032103
+uuid:f8fed735-c890-4c0a-b1c2-2ab02f1728c5,Malapa,PA032103
+uuid:f9c8fe42-366e-4d57-8ee2-5b93e6b4f32a,Pacuneta,PA030804
+uuid:fb176801-ffe8-45b3-a85a-40d5237dd940,Poiane,PA032103
+uuid:00e421cc-5dd9-4167-871c-9a625cf674b5,Mandiuassa,PA011401
+uuid:015e4da5-b901-43b5-ab1d-446180f8c619,Massangano,PA011402
+uuid:0e65c077-de8e-4a7f-89b2-d54b0bf3ddf3,Mitua,PA011401
+uuid:0f799204-6f39-4969-b260-1f10523ac271,Bulasse,PA010601
+uuid:18103504-ae82-45f3-b69c-733d2520da4a,Lumbiza,PA011401
+uuid:21d83261-482b-4b75-8272-79904e8e6480,Lupalane,PA011402
+uuid:240bc684-8e53-4e38-849b-cb819d20b33b,Ussumane,PA010601
+uuid:24f6477e-ea8b-4e40-ae16-c2173da00203,Massangulo sede,PA011401
+uuid:2a013c92-25ff-400c-9256-c520df92761e,Matanga,PA011402
+uuid:2b945e2f-8498-4fa8-aa0a-d569d3b641d9,Luagala,PA011401
+uuid:2c26f765-d3f9-4316-aeac-240bb863825e,Mbela,PA011402
+uuid:2d4b6f9f-a7c4-4bb1-a003-5d1f67779fed,Capolo,PA010601
+uuid:32bf4acd-10d3-46e4-ac11-dfeaa71fea5e,7 de Abril,PA011402
+uuid:334bfa20-d233-4b98-ac27-8e755368cc55,Matola,PA011402
+uuid:33ce8c29-3653-4c0c-af98-ffc94e9e0239,Milepa,PA011401
+uuid:35217234-c200-4db0-a243-04f6404cc606,Nhato,PA011401
+uuid:37b691d1-0a1b-428c-85c8-ce3ca58dec21,Malenga,PA010401
+uuid:44d88d6d-c8d5-4efd-90d2-b9a9d8be9149,Ámido,PA010601
+uuid:4524dc71-6a9f-4336-b2fb-d9bf50e37b15,Chiulugo,PA011401
+uuid:4a36175b-fc12-41c1-b0eb-f0024d7e16e5,Ncuaiaia,PA010601
+uuid:4d345dcd-95ff-4ad9-802c-095418914e2a,Chinenge,PA010402
+uuid:4e799c3d-df77-473f-b582-145bcb86810a,Djimo,PA010601
+uuid:54b3cf2d-9423-4dae-85cd-2bc96b6ff72d,Maoga,PA011603
+uuid:54bb9b4c-1546-4766-8440-a98aecf8eee0,Mbanda,PA011401
+uuid:55da7601-4c9a-4105-b664-30d7993407a3,Lidjego,PA011602
+uuid:5b151c1f-aee6-4816-a86b-4984d8a2898f,Miala,PA011601
+uuid:5bba215f-9c5e-4a73-b155-7fe61e58fa58,Massangano,PA010401
+uuid:5e30b9b1-b226-45e9-ac1e-c0840f66b772,Mpelula,PA010402
+uuid:5fa96455-882c-4eb2-b506-170ae96f4b8b,Machita,PA011401
+uuid:6165c1f5-24f6-4da5-99d3-b0585474b2f4,Cazize,PA011601
+uuid:61839eef-e1d7-4cd2-ba6d-c328e22c6dc8,Matukuta,PA010401
+uuid:6330cbdb-db32-4de4-b7c4-7194efa4b66b,Ntendje,PA011401
+uuid:640b3804-6410-498a-98da-8f06b664028c,Mapudje,PA011601
+uuid:65c7c042-4cbb-46e5-afc2-310d920aa9c1,Chiwango,PA010401
+uuid:66b3867e-7233-4da1-8284-2d7cb617bdc6,Nduica,PA011602
+uuid:6949d97d-d140-4e7d-8110-00b3b451f123,Lucucho,PA011402
+uuid:6cb95e27-c355-4d36-9143-b320aa23b1f9,Cazembe,PA011401
+uuid:6d2bf62a-788f-46aa-8cb0-58e23178e38e,Luambala,PA010401
+uuid:6e810c50-24c4-4c70-aaa6-0c328fe475a8,Macunganha II,PA010601
+uuid:7049331d-a69d-44aa-b5ee-2e64332be17e,Macunganha,PA011401
+uuid:70ed6858-78f7-4e50-8227-1a4f8a7a0605,Issa,PA010601
+uuid:733df623-388a-411d-ad2b-a66561c4ff8a,Chissalanga,PA011601
+uuid:73c498f5-64dd-4fb3-91c8-f2483035e3eb,Chamande,PA011401
+uuid:73cce766-5695-4386-b49b-ee3a4990af99,Calambo,PA011402
+uuid:7747e87a-ec4d-4673-a213-deba3bccca6f,Chinenge I,PA010402
+uuid:78b3bb5f-71cb-4e74-88dc-ae90c79870cc,Macunganha,PA010601
+uuid:812e512b-d7dd-4497-b7c1-310efa7b6065,Matepuenda,PA011401
+uuid:82935838-26bb-4ce6-b875-435d4a2e644c,Machemba,PA011401
+uuid:84d4abfe-0e57-4f0a-91c9-2c93eb200f34,Luelele,PA010601
+uuid:85a2a99c-a665-4c63-b829-08fa7099b7af,Chitambi,PA010601
+uuid:8eddc462-a47f-4f34-9373-89b815969537,Ngalindje,PA011402
+uuid:8fbf31a8-be30-4142-beab-5d97ff56eccf,Lumbiza,PA011603
+uuid:93250335-a508-4a0c-b375-b8f31ec4e910,Massengele,PA011401
+uuid:9846ab5b-4c51-49c0-87c6-fdea4f1e8f83,Lucole,PA011401
+uuid:9a9a9272-6615-4c15-a366-f5da76cc7951,Gimo,PA011402
+uuid:9caab5ce-dce8-486b-8ead-60f7db79a264,Nhamuedje,PA011601
+uuid:9d9de83f-583f-4b59-8a6e-1516b1fbb75c,Caunde,PA010601
+uuid:a42c859c-6bdd-4064-a320-ee4b1519d80e,Chimbalambala,PA011601
+uuid:aae805e1-c7d5-447a-836d-e8a30d5c40f6,Nlita,PA011402
+uuid:ad12e2f5-c4eb-42cf-a892-d377e219dc37,Cumichongwe,PA010601
+uuid:b0823ade-d1ef-4949-9b95-f5667b210d64,Nnungussie,PA011401
+uuid:b6df51f2-4e29-4de6-8602-ad53517f36af,Chunga,PA011402
+uuid:b95a3c22-cc32-4971-841e-1a1d54afd779,Chiguadja,PA011401
+uuid:ba1cbcaf-5ac4-40af-be5a-4e977b9b424a,Ngasyamala,PA010601
+uuid:be00df1e-6046-4b77-ad70-de2b75bcdbe7,Chekwanda,PA010401
+uuid:c128c4d9-cb63-4251-b8dc-c061bb8a453d,Daima,PA011401
+uuid:c3ca788f-2c64-4fcd-bc16-9e81a7f79246,Mbeba,PA011602
+uuid:c467ee47-0ea9-4cb9-85a4-129a50c03af6,Cazembe,PA010601
+uuid:c4ef8fcd-c961-4f01-bd2b-0e385390cba3,Antigos combatentes_Nsuahili,PA011601
+uuid:c5d06db9-4453-4cda-98d0-a76bf342fd9e,Mpianda,PA010601
+uuid:cb453645-df52-4f4a-8000-a04b26284d58,Maniamba,PA010401
+uuid:cc5b351d-8bcf-4dde-bdff-3b5c319cbe61,Ntembo,PA010601
+uuid:cfa6edc8-ee29-48cd-a976-1780166421a2,Lilonge,PA011601
+uuid:d05ee545-ca8a-4550-b167-12bf1c85c9ff,Chimbasongo,PA011601
+uuid:d2c9923e-52d2-4a8c-802a-7645eaccb429,Tambalica,PA010401
+uuid:d42fcf83-5d7f-4d2f-a83a-1e8152c761fb,Nassenhedje,PA011602
+uuid:daf0ece7-693a-42fc-97da-0766ce8f1a73,Itepela,PA011402
+uuid:dbcee9b7-070b-4df9-b9e9-cc57cc78b3dc,Chekolesia,PA010401
+uuid:dd20f3e7-5d55-4767-afb9-aa5fa2659182,Chesane,PA010401
+uuid:dfd5150f-a6ba-42ad-b146-39dc98305691,Tombolombo,PA011602
+uuid:e1bbafa4-4d53-4088-bb14-6fe074a37ccf,Ncuanda II,PA011402
+uuid:e1d6d5a2-2e05-492d-bf1f-62ce94010565,Bagarila,PA011602
+uuid:e32e4ca6-1c3d-4331-841f-94e066331205,Nselenge,PA011602
+uuid:e997f974-2ca3-4edc-8204-afc54991d4ca,Matola,PA010601
+uuid:e9fa1f95-073e-4b79-85c3-1a068ee55aab,Matola Caiaia,PA010601
+uuid:edddd70d-d3c0-47de-878a-6d900922fa32,Malopa,PA010401
+uuid:efe45775-7680-462f-b25e-cd839cf5eac2,Chitanda,PA011401
+uuid:f1b53bef-905e-4775-9017-bddbe02865b2,Wasili,PA010601
+uuid:f72e5d22-2e9d-411f-af06-cadd3c1ba054,Mitamba,PA011401
+uuid:f7b3125e-4232-48d2-aaa5-af65f130ff0f,Ncaunge,PA011401
+uuid:fb6030f4-4dc9-4fec-97e2-4bbd1e2ea7e4,Muli,PA010601
+uuid:fc133abb-33ca-449c-a83b-fa3823675984,Ngogoti,PA011601
+uuid:fda697e3-1a50-4ad1-accc-6ed244dff68c,Ngumbi,PA011401
+uuid:01665568-a321-4f1a-8ba6-da78576f206b,Zona A.Pv Napalage,PA040201
+uuid:0209f178-6a9d-47ad-8895-2342419fa059,Kuchivava,PA011402
+uuid:0410643d-11af-4324-a6b8-781b290c1679,Helua,PA041102
+uuid:04997f55-d3c8-4ce8-b302-c7e8e537634e,Capeia,PA011401
+uuid:04be6016-379f-402b-885d-5a5c073493fb,Mucune,PA040201
+uuid:04d19a05-2c82-43c0-9511-e077313b751e,Pv.Namitathar,PA040201
+uuid:04ffb4b0-9054-4831-917f-d0a038e4e462,Muha,PA041102
+uuid:05f7b13a-6d20-458e-ace0-a043349cbdb4,Zona D .Pv.Mucarua,PA040201
+uuid:069bf71d-73ed-4ea0-a1bd-504c2b74436e,Machemba,PA011401
+uuid:06b6c433-3a0d-4114-8a8b-b8c255782812,Pv. de Ikutxu,PA040201
+uuid:07f8f94f-e54f-4b86-aaf9-568385c857f7,Mussa,PA010401
+uuid:0841ee6c-60fd-444e-86d0-ded96d53c042,Murrovoro,PA040201
+uuid:08f814e1-a7a9-48d8-ae7f-4f1e82a92910,Rauanheque,PA032101
+uuid:0a75ae8a-e30f-4f8c-8c5e-fe63ae0360d0,Lussanga,PA011401
+uuid:0ca6e193-dcc8-456e-b3d5-b5306e1d4620,Mbale,PA041102
+uuid:0eb9bd73-0ee1-4aa3-9f66-3707c751a421,Namithe,PA040201
+uuid:105f2b3c-efac-4439-82be-4721e71a56b8,Mpanga,PA041001
+uuid:117077d2-110f-4387-8265-2c084b8b1396,Libanda,PA041001
+uuid:14857a4e-83c3-4b12-82b5-6d85a5d081ea,Kayaya sede,PA040201
+uuid:14adf231-eb80-460a-9cfe-0c726285f96c,Raizi,PA032101
+uuid:16bce17a-4779-4e6c-bdb1-1ba66bebc6ba,Cayaya sede,PA040201
+uuid:1be16b77-dfcf-4715-8c35-f22fc68d5245,Lussanga,PA011401
+uuid:21364822-0de9-4160-b445-3a4685a27896,Mucorro,PA040201
+uuid:2d0bd1fe-ffc9-42a7-8db9-040cc9b7e069,Conono primeiro,PA041101
+uuid:2d5c9d42-ff6a-4b25-99d2-debd7648dc6e,Chirambeira,PA041001
+uuid:2ec4b58c-1987-4c04-a3d4-cc37ff076ebc,Nathere,PA040201
+uuid:315f33d0-f915-4364-a5dd-7f13300df421,Nanhoto,PA032101
+uuid:324a68a8-4b16-4cc7-8702-83aca5af2935,Metangula,PA010301
+uuid:343d402b-55e8-42c5-8be1-2b319ec7af04,Zona C. Pv.Nauauane,PA040201
+uuid:360ea8de-559a-49ab-8b49-600b7cc04255,Pv.Wilimui,PA040201
+uuid:367789db-36f6-4b4b-853f-14aa2a3a14dd,Udala,PA011401
+uuid:383bcb11-4f5f-44ed-80d5-e5368bbe97db,Meparara,PA032101
+uuid:3a1d844f-d8c6-4654-8886-d9b64d6dcac4,Zona I .Pv. Muliquela Sede,PA040201
+uuid:3a8b56ec-807d-473a-b4c6-900647222d59,Sassamanja,PA041101
+uuid:3a940c90-ad6b-4212-a19f-8e06f18a7fb2,Naivava,PA032101
+uuid:3dafa996-066b-4b7f-a8c7-f6958780df30,OUA,PA010401
+uuid:3f28a27d-cf50-447b-9e78-7882c632e067,Zona F .Pv.Mutarica,PA040201
+uuid:43b8fd4c-c344-4ea5-8f29-c2358ffad8e0,Madiga,PA041102
+uuid:451c2787-1628-4c36-b57c-e32afdb0b30d,Mapaco,PA010401
+uuid:4ced06e6-6219-4b6d-846a-1e2702bebd7a,Chissimbir,PA011401
+uuid:4f17bfa6-cbe6-4ced-8148-9a18cb94285a,Tacata,PA041001
+uuid:53122eaf-bae8-44f5-9ee0-f52a8b11fd74,Zona B.Pv Nahatxe de caiaia,PA040201
+uuid:574fd15d-2915-408f-90b6-2ab5b7e23293,Mucotoua,PA041001
+uuid:58fe3743-4d47-4e5c-875f-d89e6209380a,Lussanga a nexo,PA011401
+uuid:5b3e870a-f38e-4015-8a6f-a0601931e4e5,Pahua,PA041101
+uuid:5cbb31d0-ed97-476f-83b9-109d5a0a3054,Nahia,PA041101
+uuid:62148379-7180-45fb-9e2b-4092d8b5830b,Namacuco,PA032101
+uuid:62435805-7ccc-4819-897e-b8a393162d09,Nahia,PA041101
+uuid:66d3db24-042b-4543-9e0f-5c3a709c9504,Naicuanga,PA010401
+uuid:6d006fe3-8cdc-47e7-bbb9-db3a2e6e4520,Mualili,PA040201
+uuid:6d236fe2-fd18-4026-9ddd-91db89d8e6be,Mugarrula,PA041001
+uuid:6f31b4b7-fcc0-4a72-9680-2616f68ad731,Pv Narrim,PA040201
+uuid:713e5578-5fdf-4caa-814f-3103c45bfb7c,Mitamba,PA011401
+uuid:7213c160-a140-42f6-a34d-73ec3e798c2b,Zona C.Pv de Mualili,PA040201
+uuid:763ae90b-d682-48c2-89b8-355c6325ba97,Mucune,PA040201
+uuid:769f43ad-277d-4258-898d-547b0f391105,Mbere,PA041102
+uuid:7c87a6d6-1c32-47ae-a5b7-4e0b84c04d3f,Lussanga,PA011401
+uuid:7c9fb5f8-18f3-4006-8309-cf6f43aa27e9,Mutapua Sede,PA030804
+uuid:7e4f10e4-c33c-46fb-9e33-3b0954a1071e,Phaua,PA041101
+uuid:7efa3001-5cf7-42d9-b1f8-9366f44b43b8,Zona A.Pv. de Murrovoro,PA040201
+uuid:822b739f-2927-4885-a4c6-3de6aec7d791,Meparara sede,PA032101
+uuid:82a215a4-a4a8-4be2-965c-b8bb8f2dac78,Lancheque,PA032101
+uuid:874d7e2f-52c3-4560-9518-321ff87a7839,Chivava,PA011402
+uuid:8917986a-0ce5-417d-85ff-97900af0b69c,Misseia,PA030804
+uuid:97cffb85-384f-4fe8-84ce-0fa9aec80b53,Malulo,PA011601
+uuid:9b8c319b-68df-477e-b898-4579e4043ce9,Zona B.Pv. Camuihai,PA040201
+uuid:9fc0290f-1381-4134-ba94-14f545437001,Escritorio,PA011401
+uuid:a080b304-987b-4af7-9b14-8a71c9851b40,Mitamba,PA011401
+uuid:a11cf138-b3e6-4919-8bb6-500c84d6e5f2,Lussanga,PA011401
+uuid:a4a8549a-4e7e-4945-a5f6-7773f4138c21,ILocone,PA032101
+uuid:a4f30cab-3a6e-4bae-a05c-72dccc3bde21,Pv.Murrovoro sede,PA040201
+uuid:a6df9602-ebdc-4465-ac1c-77d43498280d,Zona D. Pv de Mphacane,PA040201
+uuid:a9d6d153-2c20-43f5-9496-c2f7f9d2a01e,Mithine,PA032101
+uuid:ace131f9-0860-4330-bff0-34f214d9b694,Zona E.Pv.Mululi,PA040201
+uuid:ae4eeb21-e066-4a88-9325-7f0e260167a6,Pv. Caiaia sede,PA040201
+uuid:b05302b2-641c-4b74-95b7-4714530d334f,Monapo sede,PA032101
+uuid:b2ce3d21-610f-4ca4-b3d1-c7b7c1504dfe,Nahatxe,PA040201
+uuid:b4781871-bf52-49da-a4a5-504b4f0fbf27,Guanha,PA041102
+uuid:bbe60970-8cc5-4cc5-9caf-35275ed2d265,Cupiha,PA032001
+uuid:bc3bbaa8-9858-4fcd-a027-6262df93ddb2,Chimbonila,PA010401
+uuid:bdafe7d8-3169-46f5-9ed8-d1e86c31dae8,Mbuma,PA041101
+uuid:be3ce2f8-1e35-4e2b-9dc7-76cf5a0d8969,Nacuculo,PA030804
+uuid:c2e6fa12-b0ad-4906-8869-cd928edfcf39,Chissimbir,PA011401
+uuid:c40e4bfa-e040-407a-ab9c-b6f77a0c9938,Nipwete,PA032101
+uuid:c591ce48-218b-4b67-8814-07281566b761,Mabeleamuali,PA041102
+uuid:c5f8d818-24ca-4876-ab38-3567502b8302,Pv.Nailocone,PA040201
+uuid:c95ac01a-d680-40a2-b71d-79b30953a5c6,Mulequela,PA040201
+uuid:ca1c6914-435c-4a75-8950-fc40980356b0,Lussanga anexo,PA011401
+uuid:d3d87989-33eb-4c62-ab49-a208f52bf345,Mucune,PA040201
+uuid:d888c362-d109-4a2b-888b-b067ed6985ac,Escritorio ncalapa,PA011401
+uuid:d89bc93b-a32e-447a-b168-fc807750aa5c,Semane,PA041001
+uuid:e1913ce7-15ac-4aab-bc0e-c5667c881f20,Mecucue,PA010304
+uuid:e468a15e-e595-4d25-8f74-9b042a4a1b49,Mitamba,PA011401
+uuid:e6b48723-ce67-427a-b0a5-6261c28fa22e,Zona H. Pv. Namale,PA040201
+uuid:e8c7536d-806b-4683-9f67-02167ac817dc,Puita,PA032101
+uuid:f241b65a-7d07-49a7-bd0c-cfabef4bc523,Mutapua,PA030804
+uuid:f35fbfc3-8357-42f9-b1d1-fecaadf78b3a,Lipende,PA011602
+uuid:f39a3e90-a53a-4483-969f-03b37b0b5943,Comunidade de Murrovoro,PA040201
+uuid:f4631f8f-932b-4179-a770-a69a2204bb7b,Nsanja udala,PA011401
+uuid:f5c76fca-6084-4fb4-bba2-ab753fe37432,Nagore,PA041001
+uuid:f9d8ad61-57a3-48da-a3d4-d5b53934bfe5,Muahareia,PA041001
+uuid:fc564ef6-786e-4c54-8195-061061c1563f,Chissimbir,PA011401
+uuid:fdb98893-8ada-42cd-9ac0-fdf2781d9751,Branco,PA041102
+uuid:0e6c28f7-3385-4e3c-b05c-9640f8f954ff,Rampua,PA040502
+uuid:25b399b9-bebd-48ac-aef9-0c5bc8efd9d7,Mussigua,PA040503
+uuid:2f26f1bd-7d14-4cf1-bba1-a80b7b6a01c5,Napila,PA040502
+uuid:57e5c634-6533-4188-8162-2c460e0e9c27,Muagiua sede,PA040501
+uuid:694bea19-d453-4aa7-be59-33c49d561c91,Insurupi,PA040501
+uuid:708c7504-fa9f-4da3-84e8-d5eb94eb08cc,Carico Nayve,PA040501
+uuid:82e9df63-c474-4d99-a51b-d5bb8c672062,Macuela,PA040503
+uuid:8b01fc9e-f786-4b1e-8023-46c850925ece,Cuane,PA040501
+uuid:910c2e29-8cb4-494d-8ad8-663bae0e90e3,Cuntal,PA040502
+uuid:9e7993f3-2407-40f4-b946-0d8b9eead53a,Ethocola,PA041502
+uuid:a5d6a619-33fb-4e06-88b4-ff44384c6ba2,Veriha,PA041502
+uuid:a9e0dd35-3112-4d17-b79e-3ca2f87498d4,Mongessa,PA042002
+uuid:aaa8e3dc-ac53-494f-958e-2317616331e7,Malalo,PA041502
+uuid:cbe62a1d-0a0c-4be5-b5f7-610a85c4f92f,Samalungo,PA042002
+uuid:e714fd64-8cf1-44f6-aff4-344ee2462798,Tetete Sede,PA040502
+uuid:ead43eac-dbda-4b18-927b-5772996af6a5,Namarua,PA041502
+uuid:ee07960c-ed6b-4430-bf60-66420399a3c7,Namacala,PA040501
+uuid:ef1e8875-4845-4f3f-a9d0-3e1d20e50913,Mirintxe,PA040502
+uuid:ef3808d7-b174-4529-a649-f96b6ff817b1,Rumala,PA041502
+uuid:291343e7-1314-4b91-bb49-087f724f52f7,Comunidade de Lipembo,PA010901
+uuid:40cb19e6-a3d3-487c-b041-82459d2019b0,Namambacale,PA010902
+uuid:5dcb7616-e204-45c2-b501-090a79a4c0c1,Comunidade de Luatize,PA010901
+uuid:5e7e822d-0715-49a7-b087-e1a498259413,Comunidade de Milepa,PA010901
+uuid:6359d8cd-6b68-4a7d-9656-73efb7d0773e,Nsacalange,PA010901
+uuid:662e24d1-9906-4385-b7a3-129bd8f5b84d,Comunidade de Chituche,PA010901
+uuid:722738b2-f71a-4d68-a5d5-ecb599b80b4a,Posto administativo de Msawise,PA010902
+uuid:7c8cde3a-7595-4715-8cc0-687665cd5052,Comunidade de Mbuyo,PA010901
+uuid:974a6643-b791-4d06-a6f0-470808445e3d,Comunidade de Ncalapa sede,PA010901
+uuid:9ed5a72b-5b0f-4e3e-bc05-efacebd0f2e3,Comunidade de Chituche,PA010901
+uuid:a58268d3-5af4-4462-b813-27e25e8a4317,Comunidade de Iringa,PA010901
+uuid:af18ccec-42fb-48f1-bfc5-8f3ac072c62a,Mavago Sede,PA010901
+uuid:b8630df0-57a8-4ceb-a206-1204cf15de02,Ntakudja,PA010901
+uuid:d2882de9-07b6-4fb7-b764-a1101639d820,Ligogo,PA010901
+uuid:fa602bc0-949b-46e4-9036-f8c39bd13a03,Chilolo,PA010902
+uuid:0592a4e3-91ec-4888-a6ec-d9ad26b58098,Longolela,PA011302
+uuid:13a01a66-ee12-4283-9923-cfb0f16b50d1,Machemba,PA010402
+uuid:13ed5b1c-a136-4762-b481-01c5854b3c2b,Povoado de Changaussa,PA010701
+uuid:1b78977b-a062-41ed-b3b9-89be1d53aa27,COMUNIDADE DE ARAMA,PA011501
+uuid:1ba6535e-16fb-49ac-b827-3684de9847ad,Chipanga,PA010402
+uuid:23a73a8c-b09b-4c22-81cd-dec306f12182,Chiuanjota,PA011302
+uuid:35839985-b953-4d09-83c8-2c631947faf1,Mangoche,PA010402
+uuid:392a72a6-b262-4dd9-ac07-8944ea95060b,Mapalilo,PA010402
+uuid:3cc8493a-3269-40a4-9db5-a252a9e62f10,MISSORO,PA010701
+uuid:562b82dd-8949-4726-ad69-5fcfef79ec5f,Ndolela,PA010402
+uuid:59b5637a-a121-4f9e-a8d4-98fab943ac47,COMUNIDADE DE NAPALAVI,PA011501
+uuid:5d66c4db-7c61-4dfe-8f12-babbd7cc1382,Luguesse,PA011301
+uuid:6ca5faee-5aa8-4072-8ae7-b641b0143fca,Lumbi,PA010402
+uuid:77aecd83-dd52-4a29-a669-4c985fc89365,Matipa,PA010402
+uuid:7ba7d3f7-58cf-4ec8-a61f-c9a956daa8b7,Nsigeue,PA010402
+uuid:7fd715d9-f660-4f92-bbbf-95bd031e6fee,Chinenge,PA010402
+uuid:84f973be-f2df-44c7-81c4-7cb8a4431fdb,Chidjumo,PA011302
+uuid:87b007e9-b200-444e-874a-72e9a888fc6a,Lumambile,PA011302
+uuid:a2ec1981-af36-4c5e-ac3e-76b245f6c933,Lutuesse,PA011301
+uuid:a5a36377-7bb7-4e1d-91ad-e9ac1a07e488,Mbutula,PA010402
+uuid:a5ebe3da-0553-4fc7-8085-d846f434b96e,Chiganga,PA010402
+uuid:a6686308-eaa8-4509-a8c3-95c91302fec7,Naicuanha,PA010402
+uuid:a6e3fb3e-f4b0-4932-a866-da3dec63488c,Lissege,PA011302
+uuid:ba8eeb52-dfd6-4930-a1e8-ab060b55f67e,Missoro,PA010701
+uuid:ba8f6618-3223-4109-acfe-558f7123b75d,Ligogolo,PA011302
+uuid:bc6af559-1601-4b85-a276-772f73c632d7,Chissalanga,PA010402
+uuid:bdb79c88-7127-46de-8ce3-21df77583c7a,Mpombe,PA010402
+uuid:be36756e-d31d-4818-8378-79ca43d6126b,Nditi,PA011302
+uuid:c0444d43-b67e-407e-b628-f11e6147b82d,Chala_sede,PA010402
+uuid:c32b6338-4541-40a0-bac8-4b66dc2be50d,Cianene,PA011302
+uuid:c59d8ed4-8bf4-4db2-8f7c-a6e6f6b28eb6,Camalisse,PA010402
+uuid:c5ed7c49-7506-4eca-83ff-cbc7f2cbfe8f,Lione,PA010402
+uuid:ca7cb0dd-aad3-410b-ac5e-b156af1a011c,Povoado de Repele,PA010701
+uuid:ce9726df-39aa-43ac-8f63-7775832af8c4,REPELE,PA010701
+uuid:d1646e22-1ded-41e7-9b99-5752e71798c3,Chicongoe,PA010402
+uuid:d1d56050-8ee2-457f-b929-93f40ca87bee,Chande,PA010402
+uuid:da2e1fd1-1ad3-4e59-9bcc-e28f0053d153,CHANGAUSSA,PA010701
+uuid:db1a5bae-0e87-45d9-8d4f-14344c5ffd06,Mutapassa,PA010402
+uuid:ddd76d12-096e-4b9f-bd70-b46bdad6693e,Utuculo,PA010402
+uuid:ed6f79e0-62a3-4d63-9d4e-54e4577080c2,Mpelula,PA010402
+uuid:f135ee3b-0c60-4992-ac7d-c9897c068a27,Lipiche,PA010402
+uuid:0784e12d-6469-47b8-97a5-b8c54e6b8508,Marracua,PA042201
+uuid:1e446dc0-0186-4336-90e5-5b5cdc21b539,Magala de Inhangulue,PA042201
+uuid:4fbdb7e3-451a-42d6-b335-bff31bb8e22e,Pindane,PA042201
+uuid:654ed3d7-3428-4807-bdda-1d90d36f5089,Milato,PA042201
+uuid:6df76274-1267-4e61-bf4d-5523b4767d97,Murtane,PA042201
+uuid:82174d65-0e64-4e52-b89c-0ac707eccfac,Machimano,PA042201
+uuid:88990284-e4a1-4548-a23f-7ee7ce43e27c,Muiamo,PA042201
+uuid:8f0f0b5e-4047-4262-8fdc-2d3f68999768,Naivere,PA042201
+uuid:8f533ccf-c9a1-484f-96de-95a0d343af7c,Magala de Machimbue,PA042201
+uuid:a386db37-5238-4200-ac33-f5c27f8a773c,Inhangulue,PA042201
+uuid:c7e6cc72-bdab-4936-b59d-f6fd06eed430,Gumira,PA042201
+uuid:e2245702-965b-4b09-ad2f-9cd3d75bb145,Salinhane,PA042201
+uuid:effd3437-a64a-4250-b37e-9606bef5e1f2,Mussuluga,PA042201
+uuid:f2614c75-0cc3-49e6-8833-8639e0c024dc,Sareva,PA042201
+uuid:09c9c7c2-66ea-4c4f-a530-aa6034aab7a2,Carico Mole,PA040501
+uuid:10333f2b-f29c-4f7c-a162-1566ead3d326,Nampué Nawitela,PA040501
+uuid:21b7d369-5f74-4c61-be69-51b7ffba7b68,Intipita Murrui,PA040501
+uuid:265714e5-f608-4772-a713-3211fee7b44d,Carico,PA040501
+uuid:2ae4cb44-b371-429b-aa3c-06c556701334,Wakhole Nawitela,PA040501
+uuid:2f9962fa-d4e2-4152-a3ad-3c283776e729,Carico,PA040501
+uuid:304498b7-e6e0-48e6-9549-e2032efd5bc1,Murrabué,PA040501
+uuid:30f37da5-8626-4bd8-9d44-c30788e7d1dd,Nicau sede,PA040501
+uuid:312a089d-71a4-46a3-acf7-9491fd9ff71d,Marora Carico,PA040501
+uuid:39050dd8-5c29-45f0-92ed-0266f1975913,Elapele Nawitela,PA040501
+uuid:3ed1d21d-3c58-4407-ba1f-4bf8686c7c51,Nacarupa,PA040501
+uuid:3fad34c8-c56f-48b2-87f7-419a22517ff9,Celula de Nampué Nawitela,PA040501
+uuid:400557ca-4f08-4f84-9ad2-43eeedde7481,Mujaua,PA040501
+uuid:414be1d5-051d-4532-9f4d-8149b3cf52d1,Carico Marora,PA040501
+uuid:41878e85-ed1d-492d-8e5e-583b765c102a,Murratxa Nawitela,PA040501
+uuid:479728ae-bc1a-4e2e-8d9a-bd2d289cb623,Macuata,PA040501
+uuid:4c420b46-ec32-47cf-8bb7-ed77dbb36cc9,Mayequessa Nawitela,PA040501
+uuid:50b124ca-27b1-4f74-82db-41cff8bf53ec,Muconha A,PA040501
+uuid:53e100fe-8a4e-4e6f-98a0-dff0eaba9a88,Carico Up2,PA040501
+uuid:58aaf9e3-3cd2-465b-a82e-49f7e4b119cc,Mayale Nicau,PA040501
+uuid:58eead08-73c3-4e4f-b9fb-4af2bd77cce0,Ehime Murrui,PA040501
+uuid:61c43d07-85b4-4ace-9b84-a3666f3a722d,Curuca Murrabué,PA040501
+uuid:65ad4420-2ee7-4af0-9afe-da07e91d2db8,Murrotxo Mucunha,PA040501
+uuid:6aa154f0-f4d2-4187-9b62-378d2be655e7,Marrora,PA040501
+uuid:73d7cb16-d645-4134-bcde-0b9277417d15,Chipe Murrabué,PA040501
+uuid:7877aef5-3cdb-46a9-9078-e20c06ff6edd,Mithiko Nawitela,PA040501
+uuid:7f001e63-b61e-4306-98b7-f0036f2df686,Murrui Sede,PA040501
+uuid:84492aba-dadb-4c4a-8354-a0e09d1b1789,Murrabué,PA040501
+uuid:8ff9953a-bea6-41b5-9ffb-9eee54ccde08,Muconha B,PA040501
+uuid:96ac32f1-c010-4027-b88c-61aa8982addd,Roposso Mucunha,PA040501
+uuid:a5b95427-1317-4291-a0eb-aef14c0272aa,Mayequessa Nawitela,PA040501
+uuid:ab35bd4e-f437-4e51-9e56-1a5b7109fbf3,Carico Marora,PA040501
+uuid:bf754405-563d-4a2a-82b8-5e99c30622d1,Mithiko,PA040501
+uuid:c1325358-d9fd-4fe2-ad0b-2db340bdaca8,UP2 Alverca Carico,PA040501
+uuid:cae03a75-871f-415e-870a-12bb2c77b4c2,Esapa Muturi,PA040501
+uuid:d23b15c3-5fab-46bb-ac84-be611215cdff,Mirrole Mucunha,PA040501
+uuid:d78f73a2-2d85-48e3-ba2d-69d8cb457026,Niwiri Mucunha,PA040501
+uuid:de0526b4-e3c6-4af4-b6c8-5c26441bd239,Carico Mole,PA040501
+uuid:eadda73d-a24f-4abb-a06b-1d897692e817,Murrabué sede,PA040501
+uuid:ebb0db33-55e8-4473-b41d-96f3cd29ff28,Mucunha,PA040501
+uuid:edffa5f8-faf9-4696-a274-96e74b125b38,Murrui,PA040501
+uuid:efd07542-af4e-4a77-acdb-092acb176f00,Nantakhale Murrui,PA040501
+uuid:fb753f6a-787b-4623-8a70-b2bae7c52965,Wachima Murrui,PA040501
+uuid:ff9f9b82-d5c1-44fd-83a2-f4baeb7082a2,Nantoconha,PA040501
+uuid:0960ac85-7d21-4a1e-9a80-a2008b0418d8,Nipauene,PA031201
+uuid:101e49fa-4ff7-4ce5-aedc-c57780cafd94,Mirrepe,PA030202
+uuid:15fbf9f1-bd98-496c-a5b2-801b512b3733,Siretene,PA030202
+uuid:1cc29f7a-750c-4b32-a778-5237dba7a977,Mithuco,PA030202
+uuid:1d0c00c6-5120-4214-a982-b5c498e61438,Mirrepe,PA030202
+uuid:1d6e480e-8408-4e1a-be55-5edec1b10aa1,Nacipita,PA030202
+uuid:3b35261e-44c2-4231-a54c-39481c0c298d,Namacula,PA030202
+uuid:57dc1653-347a-4d47-98e5-08e0f366e08d,Puli Ezica,PA030202
+uuid:5e3e4673-6bb9-4a01-856c-d4fe931495ec,Kathoa,PA031201
+uuid:5f3ba5a8-0b57-4080-aec8-e4c4f557c323,Mucoroge,PA031201
+uuid:659c33d2-4ce2-47a9-94a7-d3106ab70c57,Epuir,PA031201
+uuid:6d699a5c-d65f-4bd3-94f4-325881893f56,Tororone,PA031201
+uuid:7095b51d-c530-408f-a748-af287c6fca9f,Jatone,PA031201
+uuid:8203de79-e69c-4cc7-b16f-11799325a0b6,Macocone,PA030202
+uuid:537d7520-8c7a-4731-b8ab-0d30967c98ef,Wassupi Nawitela,PA040501
+uuid:91a69b5b-a4a1-42b3-9f69-de1a3aa01590,Licuatancua,PA030202
+uuid:a18c31ba-715e-4cd4-a3d5-5bef4b9676d0,Sirozine,PA030202
+uuid:a9bf815d-e83b-46dc-a562-35470e934856,Tapua,PA031201
+uuid:090c1154-5abf-4bb9-adf0-1519ac275c41,Murruma,PA040601
+uuid:0b4be08d-dcce-494f-80f7-d4371ccc55d2,Mbilane,PA040601
+uuid:0ec13dfc-bde2-4753-9b34-a042c4a97515,Nanhacane,PA040601
+uuid:1dd465e2-2085-4807-8925-1ae44e236fca,Matumane,PA040601
+uuid:2057e7ae-cbf0-4f8c-a9b1-678939b547a2,Naúme,PA040601
+uuid:238b088f-4e7b-4180-8614-862fd1dfe2a9,Inroenacue,PA040601
+uuid:3a930520-6289-4760-b526-06d111b864d2,Muissi,PA040601
+uuid:4b36cd61-8aca-492b-8470-0fb58e5fbbde,Muarapuanha,PA040601
+uuid:74e114b8-f7ee-4fe3-aac9-603a650f625a,Munhanhua Sede,PA040601
+uuid:bb5dcd8a-e6ee-4228-bcaa-5caabcc545b2,Pilivili A,PA031201
+uuid:c015cf94-67ac-4c64-b2c9-69629c1ba203,Mupalacue,PA030202
+uuid:c06143b4-fd61-41bb-8c30-e15eb006b8a5,Comunidade de Muithua,PA030202
+uuid:c692fcdb-1b35-420c-86a3-eb4d8e72ad87,Mazica,PA030202
+uuid:d89b6af1-3738-4954-9271-b3af08cfc9cc,Hori,PA031201
+uuid:e4876961-7da0-42d6-b63d-cdf92a2a7996,Nampeia,PA031201
+uuid:74f98981-5571-4188-be9b-3ac0d1e7e454,Elope,PA040601
+uuid:778da12c-6bcc-44b5-94d8-f545ee95d606,Malua,PA040601
+uuid:815b7966-8084-4ec5-8e8b-32b49946bce6,Napua,PA040601
+uuid:81c3adc4-be00-4e68-8b6e-3ae881ccd25e,Mazica,PA030202
+uuid:8d6225b5-2662-4f1b-8619-e369c0c1a927,Murela,PA040601
+uuid:911e5b54-9251-47a1-9b7d-20ccd2353206,Namaluco,PA040601
+uuid:a7837753-a199-43fe-886e-4507367c47a2,Nacogolo,PA040601
+uuid:ab409887-1605-44cc-91bd-ab8c89acdbc3,Nanoa,PA040601
+uuid:abc94608-a547-4cca-bde6-ce3b0c375c05,Macala,PA040601
+uuid:b5a69740-f0ad-4ee9-97cb-b78f283e279f,Mugulama Sede,PA040601
+uuid:bbd6e8be-dca3-4d0c-a00f-303b5bfd4cfc,Mapua correia,PA040601
+uuid:f09be009-e97b-42b9-941c-0c46cd6e1dc7,Muatiua,PA040601
+uuid:f48cf676-a998-4702-bce1-de066e320b84,Namalapa,PA040601
